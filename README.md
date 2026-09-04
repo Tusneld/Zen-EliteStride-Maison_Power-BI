@@ -1,17 +1,17 @@
 # Power BI Sales Analysis Project  
-**Zen Elite Stride**
+**Zen EliteStride Maison**
 
 ---
-![Power BI Dashboard]()
+![Zen EliteStride Maison]()
 ---
 
 ## 📋 Project Overview
 
-**Zen Elite Stride** is a Power BI-based sales analysis project that transforms raw, disconnected Excel shoe sales data into a powerful, interactive business intelligence dashboard. The project delivers a centralized view of revenue performance, profit margins, customer behavior, and product trends — enabling data-driven decision making for the business.
+**Zen EliteStride Maison** is a Power BI-based sales analysis project that transforms raw, disconnected Excel shoe sales data into a powerful, interactive business intelligence dashboard. The project delivers a centralized view of revenue performance, profit margins, customer behavior, and product trends - enabling data-driven decision making for the business.
 
 ## 🏢 Business Problem Statement
 
-Stakeholders within Zen Elite Stride struggle to derive actionable insights from raw, disconnected sales data. Without a centralized view, the business cannot effectively track revenue performance, profit margins, or customer behavior, leading to significant gaps in data-driven decision making.
+Stakeholders within Zen EliteStride Maison struggle to derive actionable insights from raw, disconnected sales data. Without a centralized view, the business cannot effectively track revenue performance, profit margins, or customer behavior, leading to significant gaps in data-driven decision making.
 
 ## 🎯 Objective & Goal
 
@@ -21,24 +21,24 @@ The primary objective is to transform raw Excel-based shoe sales data into an **
 - Clear visibility into customer payment behaviors and trends
 - Actionable recommendations to guide future business strategy
 
-## 🛠️ Solution
 
-This Power BI solution implements a complete end-to-end data pipeline:
+## 🛠️ Tech Stack
 
-### Data Integration
-- Importing all disparate sheets from the Excel workbook into a unified data model
+- **Power BI Desktop** (latest version)
+- **Excel** (source data)
+- **Power Query** (data transformation & cleaning)
+- **DAX** (calculated measures)
+- **Data Modeling** (relationships between tables)
+- **Visualization Tools**: Line charts, bar charts, treemaps, slicers, and KPI cards
 
-### Data Cleaning & Transformation
-- Using Power Query to handle empty rows
-- Standardizing text casing
-- Removing unnecessary whitespace and formatting inconsistencies
+## 📋 Step Taken
 
-### Data Modeling
-- Establishing a **many-to-one relationship** between the **Shoe Sales** (fact table) and **Price** (dimension table) based on the **Product** column
-- Enabling accurate cross-table calculations and lookups
-
-### DAX Measures
-- Creating calculated metrics using iterator functions (SUMX) and the `RELATED` function for precise cross-table calculations
+1. **Data Integration** - Imported all disparate Excel sheets into a unified data model.
+2. **Data Cleaning** - Used Power Query to remove empty rows, standardize text casing, and trim whitespace.
+3. **Data Modeling** - Created a many-to-one relationship between the **Shoe Sales** (fact table) and **Price** (dimension table) based on the **Product** column.
+4. **DAX Development** - Built calculated measures using `SUMX` and the `RELATED` function for accurate cross-table calculations.
+5. **Dashboard Creation** - Designed three interactive tabs: Executive Overview, Product/Brand Deep Dive, and Customer Behavior.
+6. **Testing & Validation** - Verified all relationships and metrics work correctly across the dataset.
 
 ## 📊 Key Metrics & Insights
 
