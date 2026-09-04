@@ -11,7 +11,7 @@
 
 ## 🏢 Business Problem Statement
 
-Stakeholders struggle to derive actionable insights from raw, disconnected sales data. Without a centralized view, the business cannot effectively track revenue performance, profit margins, or customer behavior, leading to significant gaps in data-driven decision making.
+Stakeholders within Zen Elite Stride struggle to derive actionable insights from raw, disconnected sales data. Without a centralized view, the business cannot effectively track revenue performance, profit margins, or customer behavior, leading to significant gaps in data-driven decision making.
 
 ## 🎯 Objective & Goal
 
