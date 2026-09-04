@@ -1,6 +1,6 @@
-# Power BI Sales Analysis Project  
-**Zen EliteStride Maison**
+# Zen EliteStride Maison - Power BI Sales Analysis Project  
 
+**Executive summary**
 ---
 ![Zen EliteStride Maison](https://github.com/Tusneld/Zen-EliteStride-Maison_Power-BI/blob/2a767f5749ea78db08bddbe4b33c9fe570311698/Executive%20sumaary.PNG)
 ---
@@ -62,11 +62,54 @@ The primary objective is to transform raw Excel-based shoe sales data into an **
    - Product/Brand Deep Dive
    - Customer Behavior
 
-## 💡 Recommendations
+## Key Insights
 
-- Regularly update the underlying data source to keep all insights current
-- Use the dashboard to identify low-performing products and negotiate better costs with suppliers
+### 1. Overall Performance
+The business generated **$355,048** in total revenue and **$162,335** in total profit across **4,012 units sold**, for a **45.7% profit margin** and an **average order value of $710.10**.
 
+### 2. Revenue and Profit Over Time
+Monthly performance holds fairly steady from January through May (roughly $40K–$45K per month), then jumps sharply in **June** — **$70,771 in revenue** and **$32,123 in profit**, nearly 60% higher than surrounding months — before dropping off in **August** ($16,041 in revenue, based on a partial month of data). June stands out as a clear seasonal peak.
+
+### 3. Products Driving Sales
+By revenue, the top performers are:
+- **Canvas** — $63,488
+- **Oxford** — $58,905
+- **Brogues** — $58,576
+
+### 4. Products Driving Profitability
+Margin tells a different story than revenue alone:
+- **Derby** has the highest profit margin at **56.3%**, despite the lowest revenue ($16,704) of any product.
+- **Boots** (48.7%) and **Loafers** (48.1%) also outperform Canvas (43.8%) on margin.
+
+Canvas is the clear volume and revenue driver, while Derby and Boots are the efficiency drivers — strong candidates for margin-focused promotion or bundling.
+
+### 5. Best-Performing Categories and Brands
+- **Formal** dominates the category mix at **$179,935 (50.7% of total revenue)** — more than Casual, Open, and Utility combined.
+- **Clarks** leads all brands decisively at **$123,543**, ahead of Zara ($94,797), Nike ($54,029), Steve Madden ($43,855), and Timberland ($38,824).
+
+### 6. Country Contribution
+Revenue is spread fairly evenly across 14 countries, with no single dominant market:
+- **USA** — $39,127
+- **UK** — $32,871
+- **Ghana** — $32,026
+- **Zimbabwe** — $30,124
+
+The gap between the top market (USA) and the lowest (Albania, $14,592) is less than 3x, pointing to a genuinely diversified international customer base rather than reliance on one region.
+
+### 7. Purchasing Patterns by Payment Method
+- **Card** — $99,257 (1,108 units) — most-used payment method
+- **Bank Transfer** — $94,100 (1,043 units)
+- **Cash** — $93,540 (1,049 units)
+- **Mobile Money** — $68,151 (812 units) — noticeably behind the other three
+
+Card, Bank Transfer, and Cash are all within a few percentage points of each other, while Mobile Money trails, suggesting lower adoption or a market/demographic mismatch worth investigating.
+
+### 8. Recommended Actions for Management
+- **Double down on Formal and Clarks** — the strongest category and brand combination, with room to expand the lineup.
+- **Promote Derby and Boots alongside Canvas** — pairing high-margin, lower-volume products with the top revenue driver (e.g., bundling) could lift overall profit without needing new demand.
+- **Plan inventory and staffing around the June peak** — and investigate whether the July–August drop is seasonal or partly a data artifact from the partial month.
+- **Investigate Mobile Money's lower uptake** — a targeted incentive (cashback, small discount) could help close the gap with Card, Bank Transfer, and Cash.
+- **Maintain the diversified country base** rather than over-concentrating marketing spend in the top 2–3 markets, since the spread across countries is a strength.
 ---
 
 ## 👤 Author
