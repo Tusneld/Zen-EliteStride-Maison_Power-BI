@@ -2,7 +2,7 @@
 **Zen EliteStride Maison**
 
 ---
-![Zen EliteStride Maison]()
+![Zen EliteStride Maison](https://github.com/Tusneld/Zen-EliteStride-Maison_Power-BI/blob/2a767f5749ea78db08bddbe4b33c9fe570311698/Executive%20sumaary.PNG)
 ---
 
 ## 📋 Project Overview
